@@ -12,6 +12,33 @@ This repository contains all code and resources from a project that uses machine
 
 ## **Jupyter Notebook:** [Click me](notebook.ipynb)
 
+## Setup
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/sam-iv/Automated-Classification-of-Breast-Ultrasounds.git
+    cd Automated-Classification-of-Breast-Ultrasounds
+    ```
+
+2.  **Install dependencies:**
+    (Create a virtual environment, then install requirements)
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+1.  **Run Jupyter Notebook:**
+    Launch the Jupyter Notebook to explore the project.
+    ```bash
+    jupyter notebook notebook.ipynb
+    ```
+
+2.  **Running the Model:**
+    - The notebook will automatically download the BreastMNIST dataset upon first run.
+    - You can either train the model from scratch by running the cells sequentially.
+    - Alternatively, you can use the provided pre-trained model by setting the `best` variable to `True` in the "To get the best overall model" section of the notebook. This will load the `best_overall_model.pth` file.
+
 ## Key Findings
 
 The proposed model, a modified ResNet-18, successfully surpassed the MedMNIST-v2's ResNet-18 baseline metrics:

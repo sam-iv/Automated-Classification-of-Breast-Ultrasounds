@@ -1,0 +1,12 @@
+medmnist
+torcheval
+pytorch-ignite
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+tqdm
+numpy
+pandas
+scikit-image
