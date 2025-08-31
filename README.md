@@ -1,6 +1,6 @@
 # Automated Classification of Breast Ultrasounds
 
-This repository contains all code and resources from a project that uses machine learning techniques to improve the metrics of the ResNet-18 neural network for breast ultrasound classification. The project's goal was to develop a ResNet-18-based binary image classifier for the BreastMNIST dataset and surpass the baseline metrics of AUC ($\ge0.901$) and ACC ($\ge0.863$).
+This archived repository contains all code and resources from a university coursework project that uses machine learning techniques to improve the metrics of the ResNet-18 neural network for breast ultrasound classification. The project's goal was to develop a ResNet-18-based binary image classifier for the BreastMNIST dataset and surpass the baseline metrics of AUC ($\ge0.901$) and ACC ($\ge0.863$).
 
 **Project Title:** Automated Classification of Breast Ultrasounds
 
